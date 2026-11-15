@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="logo.jpg" alt="Flow Data" width="160">
-</p>
-
-<p align="center"><b>Данные и ИИ-инженерия: курсы, продукты и общие шаблоны.</b></p>
+<img src="banner.png" alt="Flow Data — данные и ИИ-инженерия" width="100%">
 
 ## Что мы делаем
 
