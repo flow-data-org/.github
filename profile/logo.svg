@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="120" viewBox="0 0 480 120" role="img" aria-label="Flow Data">
-  <rect width="480" height="120" rx="16" fill="#0F172A"/>
-  <g fill="none" stroke-linecap="round" stroke-width="8">
-    <path d="M28 78 C 50 78, 50 42, 72 42 S 94 78, 116 78" stroke="#38BDF8"/>
-    <path d="M28 52 C 50 52, 50 88, 72 88 S 94 52, 116 52" stroke="#818CF8" opacity="0.85"/>
-  </g>
-  <text x="140" y="72" font-family="Helvetica, Arial, sans-serif" font-size="44" font-weight="700" fill="#F8FAFC">Flow Data</text>
-  <text x="142" y="98" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#94A3B8">data &amp; AI engineering</text>
-</svg>

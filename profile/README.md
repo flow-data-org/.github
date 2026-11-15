@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.svg" alt="Flow Data" width="420">
+  <img src="logo.jpg" alt="Flow Data" width="160">
 </p>
 
 <p align="center"><b>Данные и ИИ-инженерия: курсы, продукты и общие шаблоны.</b></p>
